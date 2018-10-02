@@ -63,8 +63,8 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [away3d/awayphysics-examples-fp11](https://github.com/away3d/awayphysics-examples-fp11) - Actionscript examples for use with the AwayPhysics library in Flash Player 11
 * [away3d/away3d-examples-broomstick](https://github.com/away3d/away3d-examples-broomstick) - Actionscript examples for use with the Away3D engine for Flash Player Incubator
 * [hydrotik/QueueLoader](https://github.com/hydrotik/QueueLoader) - QueueLoader is an easy to use  Flash Actionscript (3.0) asset loading utility with a number of features.
-* [PureMVC/puremvc-as3-multicore-framework](https://github.com/PureMVC/puremvc-as3-multicore-framework) - PureMVC MultiCore Framework for ActionScript 3
 * [marc-hughes/ObjectHandles](https://github.com/marc-hughes/ObjectHandles) - Actionscript / Flex 3 open source library for moving and resizing on screen objects.
+* [PureMVC/puremvc-as3-multicore-framework](https://github.com/PureMVC/puremvc-as3-multicore-framework) - PureMVC MultiCore Framework for ActionScript 3
 * [rmhall/runway](https://github.com/rmhall/runway) - Runway is a set of ActionScript and JavaScript libraries for leveraging the LeapMotion input device
 * [arthur-debert/printf-as3](https://github.com/arthur-debert/printf-as3) - A printf like facility for Actionscript, loosely inspired by Python's.
 * [patternpark/asunit](https://github.com/patternpark/asunit) - The only ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
@@ -96,9 +96,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [warrenseine/as3-psd-parser](https://github.com/warrenseine/as3-psd-parser) - ActionScript 3 PSD Parser
 * [Gamua/Flox-AS3](https://github.com/Gamua/Flox-AS3) - The ActionScript 3 SDK for the Flox Game Backend
 * [tconkling/react-as3](https://github.com/tconkling/react-as3) - A signals/slots and functional reactive programming library for ActionScript
-* [ascorbic/socket-io-actionscript](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client
 * [kakenbok/ActionScript-DataProvider-Controls](https://github.com/kakenbok/ActionScript-DataProvider-Controls) - Library of standard user interface components
 * [dkeskar/airdb](https://github.com/dkeskar/airdb) - ActionScript AIR ORM for using client-side SQLite within AIR and Flex apps. Supports ActiveRecord style models, migrations and associations.
+* [ascorbic/socket-io-actionscript](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client
 * [PlayerIO/Facebook-Graph-As3](https://github.com/PlayerIO/Facebook-Graph-As3) - A thin Facebook Graph client in ActionScript 3 which closely mirrors the methods in the official Javascript Facebook SDK
 * [martinkallman/collision-as3](https://github.com/martinkallman/collision-as3) - Collision detection library for ActionScript 3
 * [charlesbihis/actionscript-diff](https://github.com/charlesbihis/actionscript-diff) - An ActionScript 3 implementation of the Myer's diff algorithm.
@@ -119,18 +119,18 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [graysonlang/proscenium](https://github.com/graysonlang/proscenium) - Proscenium ActionScript Library
 * [flashquartermaster/Cuke4AS3](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript
 * [greensock/GreenSock-AS2](https://github.com/greensock/GreenSock-AS2) - Public repository for GreenSock's ActionScript 2 libraries like GSAP (TweenLite, TweenMax, etc.). For AS3, see the GreenSock-AS3 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com
-* [joshtynjala/starling-preloader](https://github.com/joshtynjala/starling-preloader) - An example preloader for Starling Framework running in Adobe Flash Player in a web browser
 * [yanbe/qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
 * [walpolea/NetGrouper](https://github.com/walpolea/NetGrouper) - A wrapper for Actionscript 3.0's NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus
 * [smakinson/Pusher-ActionScript-Library](https://github.com/smakinson/Pusher-ActionScript-Library) - An ActionScript version of the pusher library for binding to events, etc.
+* [joshtynjala/starling-preloader](https://github.com/joshtynjala/starling-preloader) - An example preloader for Starling Framework running in Adobe Flash Player in a web browser
 * [jimojon/Multipart.as](https://github.com/jimojon/Multipart.as) - AS3 multipart form data request generator
 * [zefei/picmagick](https://github.com/zefei/picmagick) - A simple Flash (ActionScript) based photo editor
 * [Tastenkunst/brfv4_ane_examples](https://github.com/Tastenkunst/brfv4_ane_examples) - Adobe AIR native extension for Windows, macOS, iOS and Android.
-* [sshilko/jQuery-AS3-Webcam](https://github.com/sshilko/jQuery-AS3-Webcam) - jQuery wrapper for capturing web camera images written with ActionScript 3
 * [spjwebster/as3base64](https://github.com/spjwebster/as3base64) - An ActionScript 3.0 library for encoding/decoding strings and objects to/from Base 64
 * [sammyt/fussy](https://github.com/sammyt/fussy) - actionscript reflection query language
 * [nosir/pixas](https://github.com/nosir/pixas) - ActionScript library for building isometric pixel elements
 * [mikesoylu/fortia](https://github.com/mikesoylu/fortia) - a minimal 2D actionscript game library
+* [sshilko/jQuery-AS3-Webcam](https://github.com/sshilko/jQuery-AS3-Webcam) - jQuery wrapper for capturing web camera images written with ActionScript 3
 * [away3d/integration-examples-fp11](https://github.com/away3d/integration-examples-fp11) - Actionscript examples demonstrating the use of the Away3D engine for Flash Player 11 in combination with other actionscript libraries
 * [tylerzhu/SpriteSheet](https://github.com/tylerzhu/SpriteSheet) - ActionScript 3.0 Sprite Sheet render engine
 * [tomnewton/AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast actionscript 3 astar pathfinding algorithm.
@@ -142,12 +142,12 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [PhantomAppDevelopment/icon-generator](https://github.com/PhantomAppDevelopment/icon-generator) - Generate icons and launch screens for your Adobe AIR projects.
 * [Jeffxz/nodeas](https://github.com/Jeffxz/nodeas) - Server side actionscript built on Tamarin.
 * [jakehilton/netconnectionsmart](https://github.com/jakehilton/netconnectionsmart) - A replacement class for the standard NetConnection actionscript class. This easily enables multiple port/protocol attempts to resolve at the best functioning connection.
+* [distriqt/ANE-Firebase](https://github.com/distriqt/ANE-Firebase) - Native Extensions allowing access to the Google Firebase infrastructure
 * [RandoriAS/randori-framework](https://github.com/RandoriAS/randori-framework) - Randori Framework for ActionScript
 * [nosir/pixas-editor](https://github.com/nosir/pixas-editor) - Isometric pixel graphics editor
 * [joshtynjala/flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
 * [joelhooks/robotlegs-examples-OreillyBook](https://github.com/joelhooks/robotlegs-examples-OreillyBook) - These are the example projects from ActionScript Developer's Guide to Robotlegs
 * [HendrixString/Falcon](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers
-* [distriqt/ANE-Firebase](https://github.com/distriqt/ANE-Firebase) - Native Extensions allowing access to the Google Firebase infrastructure
 * [Dareville/Facebook-Graph](https://github.com/Dareville/Facebook-Graph) - Facebook Graph ActionScript 3 API
 * [pakastin/open-source-flash](https://github.com/pakastin/open-source-flash) - Petition to open source Flash and Shockwave spec
 * [PhantomAppDevelopment/firebase-as3](https://github.com/PhantomAppDevelopment/firebase-as3) - Integrate Firebase Auth, Realtime Database and Storage in your Adobe AIR projects.
