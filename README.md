@@ -28,13 +28,13 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [claus/fzip](https://github.com/claus/fzip) - FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives.
 * [CodeCatalyst/promise-as3](https://github.com/CodeCatalyst/promise-as3) - Promises/A+ compliant implementation in ActionScript 3.0
 * [adobe-flash/avmplus](https://github.com/adobe-flash/avmplus) - Source code for the Actionscript virtual machine
-* [tuarua/WebViewANE](https://github.com/tuarua/WebViewANE) - WebView Adobe Air Native Extension for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR.
 * [sephiroth74/purePDF](https://github.com/sephiroth74/purePDF) - A complete actionscript PDF library
+* [tuarua/WebViewANE](https://github.com/tuarua/WebViewANE) - WebView Adobe Air Native Extension for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR.
 * [mherkender/actionjson](https://github.com/mherkender/actionjson) - A faster, more advanced ActionScript 3 JSON library
 * [simongregory/actionscript3-tmbundle](https://github.com/simongregory/actionscript3-tmbundle) - ActionScript 3 TextMate Bundle
 * [jozefchutka/YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
-* [charlesbihis/actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - An ActionScript 3 library for interfacing with OAuth 2.0 services.
 * [biggerboat/navigator-as3](https://github.com/biggerboat/navigator-as3) - A tiny yet powerful library to deal with navigation and flow in your ActionScript projects
+* [charlesbihis/actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - An ActionScript 3 library for interfacing with OAuth 2.0 services.
 * [MaxDidIt/firetype](https://github.com/MaxDidIt/firetype) - Actionscript 3 library to parse OpenType fonts and render them using Stage3D
 * [AS3Commons/as3commons-collections](https://github.com/AS3Commons/as3commons-collections) - ActionScript Collections Framework
 * [castlabs/dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript
@@ -43,22 +43,23 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [devboy/HydraP2P](https://github.com/devboy/HydraP2P) - HydraP2P is an ActionScript 3 library aiming to simplify the peer-to-peer API introduced in Flash Player 10.1
 * [destroytoday/DestroyFramework](https://github.com/destroytoday/DestroyFramework) - a framework of useful Actionscript classes
 * [Corsaair/redtamarin](https://github.com/Corsaair/redtamarin) - AS3 running on the command line / server side
-* [lilili87222/admob-for-flash](https://github.com/lilili87222/admob-for-flash) - admob ane for flash air iOS app and actionscript android app.include banner and Interstitial native Advertising.this Admob ANE suport admob 1 and admob 2,based on firebase sdk
 * [adobe/avmplus](https://github.com/adobe/avmplus) - Source code for the Actionscript virtual machine
+* [lilili87222/admob-for-flash](https://github.com/lilili87222/admob-for-flash) - admob ane for flash air iOS app and actionscript android app.include banner and Interstitial native Advertising.this Admob ANE suport admob 1 and admob 2,based on firebase sdk
 * [video-dev/clappr-rtmp-plugin](https://github.com/video-dev/clappr-rtmp-plugin) - 📺 RTMP support for Clappr player.
 * [blooddy/blooddy_crypto](https://github.com/blooddy/blooddy_crypto) - ActionScript (AS3) library for processing binary data. This library contains MD5, SHA-1, SHA-2 ( SHA-224 и SHA-256 ), Base64, CRC32 algorithms, JSON encoder & decoder as well as PNG and JPEG encoders.
 * [alecmce/as3geometry](https://github.com/alecmce/as3geometry) - An ActionScript 3 Geometry Library
+* [zwetan/as3-universal-analytics](https://github.com/zwetan/as3-universal-analytics) - Google Universal Analytics for AS3
 * [bustardcelly/as3flobile](https://github.com/bustardcelly/as3flobile) - A set of Actionscript 3 components targeting the Flash Player on mobile devices
 * [talltyler/HTMLWrapper](https://github.com/talltyler/HTMLWrapper) - An HTML / CSS renderer created in ActionScript
 * [renaun/ActionScriptExamples](https://github.com/renaun/ActionScriptExamples) - Flash and other ActionScript example code
 * [MindScriptAct/mvcExpress-framework](https://github.com/MindScriptAct/mvcExpress-framework) - ActionScript 3 MVC framework focused on speed and simplicity.
-* [jcward/AS3-Worker-Compat](https://github.com/jcward/AS3-Worker-Compat) - ActionScript Worker wrapper for compatibility with pre-and-post Flash Player 11.4
 * [sunlightlabs/clearmaps](https://github.com/sunlightlabs/clearmaps) - An ActionScript mapping framework for data visualization.
+* [jcward/AS3-Worker-Compat](https://github.com/jcward/AS3-Worker-Compat) - ActionScript Worker wrapper for compatibility with pre-and-post Flash Player 11.4
 * [claus/fc64](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3
 * [devon-o/Starling-Particle-Editor](https://github.com/devon-o/Starling-Particle-Editor) - Actionscript 3 Flash tool to create particle effect files (.pex) compatible for use with Starling and Sparrow frameworks.
-* [CatalystApps/StarlingGAFPlayer](https://github.com/CatalystApps/StarlingGAFPlayer) - Starling GAF Player is an ActionScript 3 library that allows developer easily to play back animations in GAF format using Starling framework. GAF is a solution that allows porting animations created in Flash Pro into an open format GAF and play back them in different popular frameworks, such as Starling, Unity3d, Cocos2d-x and other.
 * [benrhodes/graffiti-as3-drawing-lib](https://github.com/benrhodes/graffiti-as3-drawing-lib) - ActionScript 3 Bitmap Drawing Library
 * [dorianroy/Soundcloud-AS3-API](https://github.com/dorianroy/Soundcloud-AS3-API) - Universal Soundcloud API wrapper for Flash, Flex and AIR projects, written in ActionScript 3.0. Please report any bugs in the Issues section.
+* [CatalystApps/StarlingGAFPlayer](https://github.com/CatalystApps/StarlingGAFPlayer) - Starling GAF Player is an ActionScript 3 library that allows developer easily to play back animations in GAF format using Starling framework. GAF is a solution that allows porting animations created in Flash Pro into an open format GAF and play back them in different popular frameworks, such as Starling, Unity3d, Cocos2d-x and other.
 * [hydrotik/QueueLoader](https://github.com/hydrotik/QueueLoader) - QueueLoader is an easy to use  Flash Actionscript (3.0) asset loading utility with a number of features.
 * [away3d/awayphysics-examples-fp11](https://github.com/away3d/awayphysics-examples-fp11) - Actionscript examples for use with the AwayPhysics library in Flash Player 11
 * [away3d/away3d-examples-broomstick](https://github.com/away3d/away3d-examples-broomstick) - Actionscript examples for use with the Away3D engine for Flash Player Incubator
@@ -68,18 +69,18 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [arthur-debert/printf-as3](https://github.com/arthur-debert/printf-as3) - A printf like facility for Actionscript, loosely inspired by Python's.
 * [zeh/key-action-binder-as3](https://github.com/zeh/key-action-binder-as3) - A keyboard/gamepad binder for easier game input in ActionScript
 * [SamHellawell/oni](https://github.com/SamHellawell/oni) - OLD, NOT SUPPORTED - ActionScript 3 game engine
+* [prominic/Moonshine-IDE](https://github.com/prominic/Moonshine-IDE) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support.
 * [justinjmoses/flexmojos-introduction](https://github.com/justinjmoses/flexmojos-introduction) - A gentle introduction to Flexmojos & Maven
 * [joshtynjala/monsterdebugger-client-starling](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of Monster Debugger client library with support for Starling Framework
 * [drewbourne/asx](https://github.com/drewbourne/asx) - Extensions for core ActionScript Objects
-* [prominic/Moonshine-IDE](https://github.com/prominic/Moonshine-IDE) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support.
 * [sammyt/dawn](https://github.com/sammyt/dawn) - lightweight dependency injection for actionscript
 * [richardlord/Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
 * [joeonmars/CameraFocus](https://github.com/joeonmars/CameraFocus) - a 2D camera helper class for ActionScript 3.0 projects / Starling Framework
 * [jeremyruppel/as3-router](https://github.com/jeremyruppel/as3-router) - Simple hash-router for ActionScript 3
+* [renaun/KontikiJS](https://github.com/renaun/KontikiJS) - An ActionScript 3 Library used to generate Flash API JavaScript code through the Randori compiler
 * [myflashlab/Firebase-ANE](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 * [benbjohnson/melomel](https://github.com/benbjohnson/melomel) - External ActionScript Interface.
 * [richardlord/Actionscript-Toolkit](https://github.com/richardlord/Actionscript-Toolkit) - Various bits of useful Actionscript code that I've released in the past, grouped together in one place.
-* [renaun/KontikiJS](https://github.com/renaun/KontikiJS) - An ActionScript 3 Library used to generate Flash API JavaScript code through the Randori compiler
 * [childoftv/as3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - An Actionscript 3.0 package to read .xlsx Open XML Excel or Open Office spreadsheets
 * [bustardcelly/as3couchdb](https://github.com/bustardcelly/as3couchdb) - An ActionScript 3 clientside API for interacting with a CouchDB instance.
 * [videojuicer/stylekit-as3](https://github.com/videojuicer/stylekit-as3) -  An Actionscript 3 framework for creating user interfaces, using CSS3 for layout.
@@ -108,10 +109,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [Rokannon/Crossbridge-Recast-Navigation](https://github.com/Rokannon/Crossbridge-Recast-Navigation) - This project is a FlasCC port to ActionScript 3.0 of C++ navigation mesh library Recast Navigation by Mikko Mononen.
 * [nathanhinish/AS3-IABLib](https://github.com/nathanhinish/AS3-IABLib) - An ActionScript 3 library for IAB specs. Includes the following features: VAST 2.0 Spec (http://www.iab.net/vast) for parsing VAST responses. VPAID Spec (http://www.iab.net/vpaid) for creating VPAID-compliant ads.
 * [ciathyza/tetragon](https://github.com/ciathyza/tetragon) - Tetragon is an Open Source cross-platform game engine used to develop games and applications for the web, desktop and mobile devices. It is written purely in ActionScript 3 and comfortably allows to write source code once and deploy builds to several different target platforms. Unlike most other Flash-based game engines and frameworks that allow you to develop a specific type of game or that provide a subset API to support game development, Tetragon provides a complete foundation with that any type of game can be developed, incl. resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and a lot more.
+* [benrhodes/graffiti-as3-drawing-lib-touch](https://github.com/benrhodes/graffiti-as3-drawing-lib-touch) - ActionScript 3 Drawing library made for touch devices.
 * [swellee/LeUI](https://github.com/swellee/LeUI) - leui --an as3(actionscript 3.0) ui framework
 * [joshtynjala/flexwires](https://github.com/joshtynjala/flexwires) - Drag-and-drop wiring UI for Adobe Flex
 * [graysonlang/proscenium](https://github.com/graysonlang/proscenium) - Proscenium ActionScript Library
-* [benrhodes/graffiti-as3-drawing-lib-touch](https://github.com/benrhodes/graffiti-as3-drawing-lib-touch) - ActionScript 3 Drawing library made for touch devices.
 * [UnitZeroOne/AS3ATF](https://github.com/UnitZeroOne/AS3ATF) - ActionScript Library to read, write and inspect Adobe's Texture Format.
 * [pechemann/hummingbird](https://github.com/pechemann/hummingbird) - The easiest way to build and deploy robust MVC applications for ActionScript 3.0, Mobile and the Starling Framework.
 * [flashquartermaster/Cuke4AS3](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript
@@ -576,7 +577,6 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [GoCarrotArchive/carrot-as3](https://github.com/GoCarrotArchive/carrot-as3) - Carrot SDK for ActionScript 3.0
 * [gngrwzrd/guttershark](https://github.com/gngrwzrd/guttershark) - The Actionscript 3 Framework
 * [geraldo/redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs based on flare ActionScript library.
-* [geoffhom/face-memory](https://github.com/geoffhom/face-memory) - Program for memorizing stuff. Using Flash and Actionscript 3.0.
 * [fork/reprise](https://github.com/fork/reprise) - CSS box model based application and layout framework for ActionScript 3
 * [foo123/flasher](https://github.com/foo123/flasher) - ActionScript 3 XML slideshow based on as3-transitions-lib
 * [foo123/3DRubikCube](https://github.com/foo123/3DRubikCube) - [PROJECT STOPPED] Intuitive 3D Rubik Cube in Actionscript 3
