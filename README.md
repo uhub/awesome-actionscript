@@ -36,9 +36,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [adobe/avmplus](https://github.com/adobe/avmplus) - Source code for the Actionscript virtual machine
 * [jozefchutka/YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
 * [charlesbihis/actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - An ActionScript 3 library for interfacing with OAuth 2.0 services.
+* [AS3Commons/as3commons-collections](https://github.com/AS3Commons/as3commons-collections) - ActionScript Collections Framework
 * [luwes/js-cover-flow](https://github.com/luwes/js-cover-flow) - A Cover Flow component made for the web
 * [biggerboat/navigator-as3](https://github.com/biggerboat/navigator-as3) - A tiny yet powerful library to deal with navigation and flow in your ActionScript projects
-* [AS3Commons/as3commons-collections](https://github.com/AS3Commons/as3commons-collections) - ActionScript Collections Framework
 * [castlabs/dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript
 * [MaxDidIt/firetype](https://github.com/MaxDidIt/firetype) - Actionscript 3 library to parse OpenType fonts and render them using Stage3D
 * [away3d/away3d-examples-fp11](https://github.com/away3d/away3d-examples-fp11) - Actionscript examples for use with the Away3D engine for Flash Player 11
@@ -58,9 +58,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [benrhodes/graffiti-as3-drawing-lib](https://github.com/benrhodes/graffiti-as3-drawing-lib) - ActionScript 3 Bitmap Drawing Library
 * [renaun/ActionScriptExamples](https://github.com/renaun/ActionScriptExamples) - Flash and other ActionScript example code
 * [prominic/Moonshine-IDE](https://github.com/prominic/Moonshine-IDE) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support.
+* [devon-o/Starling-Particle-Editor](https://github.com/devon-o/Starling-Particle-Editor) - Actionscript 3 Flash tool to create particle effect files (.pex) compatible for use with Starling and Sparrow frameworks.
 * [CatalystApps/StarlingGAFPlayer](https://github.com/CatalystApps/StarlingGAFPlayer) - Starling GAF Player is an ActionScript 3 library that allows developer easily to play back animations in GAF format using Starling framework. GAF is a solution that allows porting animations created in Flash Pro into an open format GAF and play back them in different popular frameworks, such as Starling, Unity3d, Cocos2d-x and other.
 * [jcward/AS3-Worker-Compat](https://github.com/jcward/AS3-Worker-Compat) - ActionScript Worker wrapper for compatibility with pre-and-post Flash Player 11.4
-* [devon-o/Starling-Particle-Editor](https://github.com/devon-o/Starling-Particle-Editor) - Actionscript 3 Flash tool to create particle effect files (.pex) compatible for use with Starling and Sparrow frameworks.
 * [dorianroy/Soundcloud-AS3-API](https://github.com/dorianroy/Soundcloud-AS3-API) - Universal Soundcloud API wrapper for Flash, Flex and AIR projects, written in ActionScript 3.0. Please report any bugs in the Issues section.
 * [hydrotik/QueueLoader](https://github.com/hydrotik/QueueLoader) - QueueLoader is an easy to use  Flash Actionscript (3.0) asset loading utility with a number of features.
 * [away3d/awayphysics-examples-fp11](https://github.com/away3d/awayphysics-examples-fp11) - Actionscript examples for use with the AwayPhysics library in Flash Player 11
@@ -145,8 +145,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [tomnewton/AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast actionscript 3 astar pathfinding algorithm.
 * [jeremyruppel/as3-operations](https://github.com/jeremyruppel/as3-operations) - Async operation contracts and helpers for ActionScript 3
 * [jakehilton/netconnectionsmart](https://github.com/jakehilton/netconnectionsmart) - A replacement class for the standard NetConnection actionscript class. This easily enables multiple port/protocol attempts to resolve at the best functioning connection.
-* [joshtynjala/flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
 * [evernote/evernote-sdk-as3](https://github.com/evernote/evernote-sdk-as3) - Evernote SDK for ActionScript
+* [joshtynjala/flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
+* [SaffronCode/Adobe-Air-Assistant](https://github.com/SaffronCode/Adobe-Air-Assistant) - Descriptor file editor for Adobe Air
 * [LeeBurrows/Async-Image-Encoders](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format
 * [HendrixString/Falcon](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers
 * [Dareville/Facebook-Graph](https://github.com/Dareville/Facebook-Graph) - Facebook Graph ActionScript 3 API
