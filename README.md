@@ -37,8 +37,8 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [simongregory/actionscript3-tmbundle](https://github.com/simongregory/actionscript3-tmbundle) - ActionScript 3 TextMate Bundle
 * [jozefchutka/YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
 * [luwes/js-cover-flow](https://github.com/luwes/js-cover-flow) - A Cover Flow component made for the web
-* [charlesbihis/actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - An ActionScript 3 library for interfacing with OAuth 2.0 services.
 * [Corsaair/redtamarin](https://github.com/Corsaair/redtamarin) - AS3 running on the command line / server side
+* [charlesbihis/actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - An ActionScript 3 library for interfacing with OAuth 2.0 services.
 * [AS3Commons/as3commons-collections](https://github.com/AS3Commons/as3commons-collections) - ActionScript Collections Framework
 * [castlabs/dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript
 * [video-dev/clappr-rtmp-plugin](https://github.com/video-dev/clappr-rtmp-plugin) - 📺 RTMP support for Clappr player.
@@ -68,12 +68,12 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [away3d/away3d-examples-broomstick](https://github.com/away3d/away3d-examples-broomstick) - Actionscript examples for use with the Away3D engine for Flash Player Incubator
 * [marc-hughes/ObjectHandles](https://github.com/marc-hughes/ObjectHandles) - Actionscript / Flex 3 open source library for moving and resizing on screen objects.
 * [justinjmoses/flexmojos-introduction](https://github.com/justinjmoses/flexmojos-introduction) - A gentle introduction to Flexmojos & Maven
+* [joshtynjala/monsterdebugger-client-starling](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of Monster Debugger client library with support for Starling Framework
 * [rmhall/runway](https://github.com/rmhall/runway) - Runway is a set of ActionScript and JavaScript libraries for leveraging the LeapMotion input device
 * [patternpark/asunit](https://github.com/patternpark/asunit) - The only ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
-* [joshtynjala/monsterdebugger-client-starling](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of Monster Debugger client library with support for Starling Framework
 * [arthur-debert/printf-as3](https://github.com/arthur-debert/printf-as3) - A printf like facility for Actionscript, loosely inspired by Python's.
-* [zeh/key-action-binder-as3](https://github.com/zeh/key-action-binder-as3) - A keyboard/gamepad binder for easier game input in ActionScript
 * [drewbourne/asx](https://github.com/drewbourne/asx) - Extensions for core ActionScript Objects
+* [zeh/key-action-binder-as3](https://github.com/zeh/key-action-binder-as3) - A keyboard/gamepad binder for easier game input in ActionScript
 * [SamHellawell/oni](https://github.com/SamHellawell/oni) - OLD, NOT SUPPORTED - ActionScript 3 game engine
 * [joeonmars/CameraFocus](https://github.com/joeonmars/CameraFocus) - a 2D camera helper class for ActionScript 3.0 projects / Starling Framework
 * [richardlord/Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
@@ -109,13 +109,13 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [UnitZeroOne/AS3ATF](https://github.com/UnitZeroOne/AS3ATF) - ActionScript Library to read, write and inspect Adobe's Texture Format.
 * [stevewoolcock/AssetManager](https://github.com/stevewoolcock/AssetManager) - Asset management for ActionScript 3.0
 * [SaffronCode/SaffronCode](https://github.com/SaffronCode/SaffronCode) - Powerful Action Script SDK to develop high performance mobile and desktop applications fast and easy, using Adobe Animate!
+* [Rokannon/Crossbridge-Recast-Navigation](https://github.com/Rokannon/Crossbridge-Recast-Navigation) - This project is a FlasCC port to ActionScript 3.0 of C++ navigation mesh library Recast Navigation by Mikko Mononen.
 * [PlayerIO/Facebook-Graph-As3](https://github.com/PlayerIO/Facebook-Graph-As3) - A thin Facebook Graph client in ActionScript 3 which closely mirrors the methods in the official Javascript Facebook SDK
 * [nathanhinish/AS3-IABLib](https://github.com/nathanhinish/AS3-IABLib) - An ActionScript 3 library for IAB specs. Includes the following features: VAST 2.0 Spec (http://www.iab.net/vast) for parsing VAST responses. VPAID Spec (http://www.iab.net/vpaid) for creating VPAID-compliant ads.
 * [ciathyza/tetragon](https://github.com/ciathyza/tetragon) - Tetragon is an Open Source cross-platform game engine used to develop games and applications for the web, desktop and mobile devices. It is written purely in ActionScript 3 and comfortably allows to write source code once and deploy builds to several different target platforms. Unlike most other Flash-based game engines and frameworks that allow you to develop a specific type of game or that provide a subset API to support game development, Tetragon provides a complete foundation with that any type of game can be developed, incl. resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and a lot more.
 * [yourpalmark/facebook-actionscript-api](https://github.com/yourpalmark/facebook-actionscript-api) - Import from Adobe's official Facebook library, branched here to add additional functionality and support.
 * [swellee/LeUI](https://github.com/swellee/LeUI) - leui --an as3(actionscript 3.0) ui framework
 * [shapedbyregret/actionscript-3-obfuscator](https://github.com/shapedbyregret/actionscript-3-obfuscator) - Python script that takes in a single .as file and makes it hard to decipher.
-* [Rokannon/Crossbridge-Recast-Navigation](https://github.com/Rokannon/Crossbridge-Recast-Navigation) - This project is a FlasCC port to ActionScript 3.0 of C++ navigation mesh library Recast Navigation by Mikko Mononen.
 * [graysonlang/proscenium](https://github.com/graysonlang/proscenium) - Proscenium ActionScript Library
 * [zefei/picmagick](https://github.com/zefei/picmagick) - A simple Flash (ActionScript) based photo editor
 * [yanbe/qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
