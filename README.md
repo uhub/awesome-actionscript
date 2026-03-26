@@ -81,9 +81,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [richardlord/Actionscript-Toolkit](https://github.com/richardlord/Actionscript-Toolkit) - Various bits of useful Actionscript code that I've released in the past, grouped together in one place.
 * [renaun/KontikiJS](https://github.com/renaun/KontikiJS) - An ActionScript 3 Library used to generate Flash API JavaScript code through the Randori compiler
 * [jeremyruppel/as3-router](https://github.com/jeremyruppel/as3-router) - Simple hash-router for ActionScript 3
+* [greensock/GreenSock-AS2](https://github.com/greensock/GreenSock-AS2) - Public repository for GreenSock's ActionScript 2 libraries like GSAP (TweenLite, TweenMax, etc.). For AS3, see the GreenSock-AS3 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com
 * [benrhodes/graffiti-as3-drawing-lib-touch](https://github.com/benrhodes/graffiti-as3-drawing-lib-touch) - ActionScript 3 Drawing library made for touch devices.
 * [schacon/asgit](https://github.com/schacon/asgit) - ActionScript Git library and browser implementation
-* [greensock/GreenSock-AS2](https://github.com/greensock/GreenSock-AS2) - Public repository for GreenSock's ActionScript 2 libraries like GSAP (TweenLite, TweenMax, etc.). For AS3, see the GreenSock-AS3 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com
 * [childoftv/as3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - An Actionscript 3.0 package to read .xlsx Open XML Excel or Open Office spreadsheets
 * [benbjohnson/melomel](https://github.com/benbjohnson/melomel) - External ActionScript Interface.
 * [tuarua/AR-ANE](https://github.com/tuarua/AR-ANE) - ARKit Adobe Air Native Extension for iOS11
@@ -109,10 +109,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [shapedbyregret/actionscript-3-obfuscator](https://github.com/shapedbyregret/actionscript-3-obfuscator) - Python script that takes in a single .as file and makes it hard to decipher.
 * [SaffronCode/SaffronCode](https://github.com/SaffronCode/SaffronCode) - Powerful Action Script SDK to develop high performance mobile and desktop applications fast and easy, using Adobe Animate!
 * [Rokannon/Crossbridge-Recast-Navigation](https://github.com/Rokannon/Crossbridge-Recast-Navigation) - This project is a FlasCC port to ActionScript 3.0 of C++ navigation mesh library Recast Navigation by Mikko Mononen.
+* [PlayerIO/Facebook-Graph-As3](https://github.com/PlayerIO/Facebook-Graph-As3) - A thin Facebook Graph client in ActionScript 3 which closely mirrors the methods in the official Javascript Facebook SDK
 * [nathanhinish/AS3-IABLib](https://github.com/nathanhinish/AS3-IABLib) - An ActionScript 3 library for IAB specs. Includes the following features: VAST 2.0 Spec (http://www.iab.net/vast) for parsing VAST responses. VPAID Spec (http://www.iab.net/vpaid) for creating VPAID-compliant ads.
 * [joshtynjala/flexwires](https://github.com/joshtynjala/flexwires) - Drag-and-drop wiring UI for Adobe Flex
 * [yourpalmark/facebook-actionscript-api](https://github.com/yourpalmark/facebook-actionscript-api) - Import from Adobe's official Facebook library, branched here to add additional functionality and support.
-* [PlayerIO/Facebook-Graph-As3](https://github.com/PlayerIO/Facebook-Graph-As3) - A thin Facebook Graph client in ActionScript 3 which closely mirrors the methods in the official Javascript Facebook SDK
 * [graysonlang/proscenium](https://github.com/graysonlang/proscenium) - Proscenium ActionScript Library
 * [yanbe/qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
 * [tylerzhu/SpriteSheet](https://github.com/tylerzhu/SpriteSheet) - ActionScript 3.0 Sprite Sheet render engine
@@ -150,6 +150,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [distriqt/ANE-AndroidSupport](https://github.com/distriqt/ANE-AndroidSupport) - Android Support Library Native Extension
 * [wonderyue/Animator](https://github.com/wonderyue/Animator) - A Visual FSM Editor like Unity Mecanim System
 * [jakehilton/netconnectionsmart](https://github.com/jakehilton/netconnectionsmart) - A replacement class for the standard NetConnection actionscript class. This easily enables multiple port/protocol attempts to resolve at the best functioning connection.
+* [BowlerHatLLC/asconfigc](https://github.com/BowlerHatLLC/asconfigc) - Command line utility that builds ActionScript projects configured with an asconfig.json file.
 * [roipeker/draw-lib](https://github.com/roipeker/draw-lib) - Draw is a Starling powered Graphics implementation.
 * [mikkoh/AS3-Airplay](https://github.com/mikkoh/AS3-Airplay) - This is an implementation of Apple's Airplay written in Actionscript 3.
 * [openfl/openfl-js](https://github.com/openfl/openfl-js) - Wrapper to support OpenFL HTML5 development using TypeScript, Haxe, JavaScript or ActionScript 3.0
