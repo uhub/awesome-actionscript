@@ -83,9 +83,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [jeremyruppel/as3-router](https://github.com/jeremyruppel/as3-router) - Simple hash-router for ActionScript 3
 * [greensock/GreenSock-AS2](https://github.com/greensock/GreenSock-AS2) - Public repository for GreenSock's ActionScript 2 libraries like GSAP (TweenLite, TweenMax, etc.). For AS3, see the GreenSock-AS3 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com
 * [benrhodes/graffiti-as3-drawing-lib-touch](https://github.com/benrhodes/graffiti-as3-drawing-lib-touch) - ActionScript 3 Drawing library made for touch devices.
+* [benbjohnson/melomel](https://github.com/benbjohnson/melomel) - External ActionScript Interface.
 * [schacon/asgit](https://github.com/schacon/asgit) - ActionScript Git library and browser implementation
 * [childoftv/as3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - An Actionscript 3.0 package to read .xlsx Open XML Excel or Open Office spreadsheets
-* [benbjohnson/melomel](https://github.com/benbjohnson/melomel) - External ActionScript Interface.
 * [tuarua/AR-ANE](https://github.com/tuarua/AR-ANE) - ARKit Adobe Air Native Extension for iOS11
 * [tinklondon/tink_flash_platform](https://github.com/tinklondon/tink_flash_platform) - Flash/Flex ActionScript 3.0 source from Tink Ltd (http://www.tink.ws)
 * [timknip/asblender](https://github.com/timknip/asblender) - Actionscript 3 library for reading Blender .blend files
