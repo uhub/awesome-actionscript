@@ -32,9 +32,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [CC-Archived/promise-as3](https://github.com/CC-Archived/promise-as3) - Promises/A+ compliant implementation in ActionScript 3.0
 * [sephiroth74/purePDF](https://github.com/sephiroth74/purePDF) - A complete actionscript PDF library
 * [Moonshine-IDE/Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support.
+* [bym-refitted/backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) - The Backyard Monsters preservation project 🎮
 * [thibaultimbert/graphicscorelib](https://github.com/thibaultimbert/graphicscorelib) - A Flash Platform SDK, a nice toolbox with libs for every ActionScript 3 developer.
 * [mherkender/actionjson](https://github.com/mherkender/actionjson) - A faster, more advanced ActionScript 3 JSON library
-* [bym-refitted/backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) - The Backyard Monsters preservation project 🎮
 * [simongregory/actionscript3-tmbundle](https://github.com/simongregory/actionscript3-tmbundle) - ActionScript 3 TextMate Bundle
 * [Corsaair/redtamarin](https://github.com/Corsaair/redtamarin) - AS3 running on the command line / server side
 * [jozefchutka/YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
@@ -74,8 +74,8 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [patternpark/asunit](https://github.com/patternpark/asunit) - The only ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
 * [jjgonecrypto/flexmojos-introduction](https://github.com/jjgonecrypto/flexmojos-introduction) - A gentle introduction to Flexmojos & Maven
 * [drewbourne/asx](https://github.com/drewbourne/asx) - Extensions for core ActionScript Objects
-* [joeonmars/CameraFocus](https://github.com/joeonmars/CameraFocus) - a 2D camera helper class for ActionScript 3.0 projects / Starling Framework
 * [cykoder/oni](https://github.com/cykoder/oni) - OLD, NOT SUPPORTED - ActionScript 3 game engine
+* [joeonmars/CameraFocus](https://github.com/joeonmars/CameraFocus) - a 2D camera helper class for ActionScript 3.0 projects / Starling Framework
 * [richardlord/Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
 * [sammyt/dawn](https://github.com/sammyt/dawn) - lightweight dependency injection for actionscript
 * [richardlord/Actionscript-Toolkit](https://github.com/richardlord/Actionscript-Toolkit) - Various bits of useful Actionscript code that I've released in the past, grouped together in one place.
@@ -112,13 +112,13 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [PlayerIO/Facebook-Graph-As3](https://github.com/PlayerIO/Facebook-Graph-As3) - A thin Facebook Graph client in ActionScript 3 which closely mirrors the methods in the official Javascript Facebook SDK
 * [nathanhinish/AS3-IABLib](https://github.com/nathanhinish/AS3-IABLib) - An ActionScript 3 library for IAB specs. Includes the following features: VAST 2.0 Spec (http://www.iab.net/vast) for parsing VAST responses. VPAID Spec (http://www.iab.net/vpaid) for creating VPAID-compliant ads.
 * [joshtynjala/flexwires](https://github.com/joshtynjala/flexwires) - Drag-and-drop wiring UI for Adobe Flex
+* [apache/flex-tlf](https://github.com/apache/flex-tlf) - Mirror of Apache Flex TLF
 * [yourpalmark/facebook-actionscript-api](https://github.com/yourpalmark/facebook-actionscript-api) - Import from Adobe's official Facebook library, branched here to add additional functionality and support.
 * [nosir/pixas-editor](https://github.com/nosir/pixas-editor) - Isometric pixel graphics editor
 * [graysonlang/proscenium](https://github.com/graysonlang/proscenium) - Proscenium ActionScript Library
 * [yanbe/qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
 * [tylerzhu/SpriteSheet](https://github.com/tylerzhu/SpriteSheet) - ActionScript 3.0 Sprite Sheet render engine
 * [pechemann/hummingbird](https://github.com/pechemann/hummingbird) - The easiest way to build and deploy robust MVC applications for ActionScript 3.0, Mobile and the Starling Framework.
-* [apache/flex-tlf](https://github.com/apache/flex-tlf) - Mirror of Apache Flex TLF
 * [swellee/LeUI](https://github.com/swellee/LeUI) - leui --an as3(actionscript 3.0) ui framework
 * [zefei/picmagick](https://github.com/zefei/picmagick) - A simple Flash (ActionScript) based photo editor
 * [rekomat/AS3-LocaleManager](https://github.com/rekomat/AS3-LocaleManager) - Basic localization support for ActionScript apps
@@ -131,13 +131,13 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [spjwebster/as3base64](https://github.com/spjwebster/as3base64) - An ActionScript 3.0 library for encoding/decoding strings and objects to/from Base 64
 * [sammyt/fussy](https://github.com/sammyt/fussy) - actionscript reflection query language
 * [SaffronCode/Adobe-Air-Assistant](https://github.com/SaffronCode/Adobe-Air-Assistant) - Descriptor file editor for Adobe Air
-* [PhantomAppDevelopment/icon-generator](https://github.com/PhantomAppDevelopment/icon-generator) - Generate icons and launch screens for your Adobe AIR projects.
 * [nosir/pixas](https://github.com/nosir/pixas) - ActionScript library for building isometric pixel elements
 * [flashquartermaster/Cuke4AS3](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript
+* [audreyt/as3gif](https://github.com/audreyt/as3gif) - AS3GIF lets you play and encode animated GIF's with ActionScript 3.
+* [PhantomAppDevelopment/icon-generator](https://github.com/PhantomAppDevelopment/icon-generator) - Generate icons and launch screens for your Adobe AIR projects.
 * [joshtynjala/starling-preloader](https://github.com/joshtynjala/starling-preloader) - An example preloader for Starling Framework running in Adobe Flash Player in a web browser
 * [joshtynjala/flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
 * [away3d/integration-examples-fp11](https://github.com/away3d/integration-examples-fp11) - Actionscript examples demonstrating the use of the Away3D engine for Flash Player 11 in combination with other actionscript libraries
-* [audreyt/as3gif](https://github.com/audreyt/as3gif) - AS3GIF lets you play and encode animated GIF's with ActionScript 3.
 * [jon4s-creative/Multipart.as](https://github.com/jon4s-creative/Multipart.as) - AS3 multipart form data request generator
 * [tomnewton/AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast actionscript 3 astar pathfinding algorithm.
 * [openfl/openfl-samples-as3](https://github.com/openfl/openfl-samples-as3) - OpenFL npm sample projects (written in ActionScript 3.0 with Apache Royale)
@@ -146,10 +146,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [MattesGroeger/as3-cheats](https://github.com/MattesGroeger/as3-cheats) - Provides an easy way to use cheat codes with ActionScript 3.0.
 * [jeremyruppel/as3-operations](https://github.com/jeremyruppel/as3-operations) - Async operation contracts and helpers for ActionScript 3
 * [HendrixString/Falcon](https://github.com/HendrixString/Falcon) - Responsive/Flexible UI controls for Feathers-UI
-* [Evernote/evernote-sdk-as3](https://github.com/Evernote/evernote-sdk-as3) - Evernote SDK for ActionScript
 * [airnativeextensions/ANE-AndroidSupport](https://github.com/airnativeextensions/ANE-AndroidSupport) - Android Support Library Native Extension
 * [wonderyue/Animator](https://github.com/wonderyue/Animator) - A Visual FSM Editor like Unity Mecanim System
 * [jakehilton/netconnectionsmart](https://github.com/jakehilton/netconnectionsmart) - A replacement class for the standard NetConnection actionscript class. This easily enables multiple port/protocol attempts to resolve at the best functioning connection.
+* [Evernote/evernote-sdk-as3](https://github.com/Evernote/evernote-sdk-as3) - Evernote SDK for ActionScript
 * [BowlerHatLLC/asconfigc](https://github.com/BowlerHatLLC/asconfigc) - Command line utility that builds ActionScript projects configured with an asconfig.json file.
 * [roipeker/draw-lib](https://github.com/roipeker/draw-lib) - Draw is a Starling powered Graphics implementation.
 * [jimojon/Multipart.as](https://github.com/jimojon/Multipart.as) - AS3 multipart form data request generator
