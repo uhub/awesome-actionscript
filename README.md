@@ -33,10 +33,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [sephiroth74/purePDF](https://github.com/sephiroth74/purePDF) - A complete actionscript PDF library
 * [Moonshine-IDE/Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support.
 * [bym-refitted/backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) - The Backyard Monsters preservation project 🎮
-* [thibaultimbert/graphicscorelib](https://github.com/thibaultimbert/graphicscorelib) - A Flash Platform SDK, a nice toolbox with libs for every ActionScript 3 developer.
 * [mherkender/actionjson](https://github.com/mherkender/actionjson) - A faster, more advanced ActionScript 3 JSON library
-* [simongregory/actionscript3-tmbundle](https://github.com/simongregory/actionscript3-tmbundle) - ActionScript 3 TextMate Bundle
+* [thibaultimbert/graphicscorelib](https://github.com/thibaultimbert/graphicscorelib) - A Flash Platform SDK, a nice toolbox with libs for every ActionScript 3 developer.
 * [Corsaair/redtamarin](https://github.com/Corsaair/redtamarin) - AS3 running on the command line / server side
+* [simongregory/actionscript3-tmbundle](https://github.com/simongregory/actionscript3-tmbundle) - ActionScript 3 TextMate Bundle
 * [jozefchutka/YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
 * [luwes/js-cover-flow](https://github.com/luwes/js-cover-flow) - A Cover Flow component made for the web
 * [charlesbihis/actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - An ActionScript 3 library for interfacing with OAuth 2.0 services.
@@ -112,10 +112,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [PlayerIO/Facebook-Graph-As3](https://github.com/PlayerIO/Facebook-Graph-As3) - A thin Facebook Graph client in ActionScript 3 which closely mirrors the methods in the official Javascript Facebook SDK
 * [nathanhinish/AS3-IABLib](https://github.com/nathanhinish/AS3-IABLib) - An ActionScript 3 library for IAB specs. Includes the following features: VAST 2.0 Spec (http://www.iab.net/vast) for parsing VAST responses. VPAID Spec (http://www.iab.net/vpaid) for creating VPAID-compliant ads.
 * [joshtynjala/flexwires](https://github.com/joshtynjala/flexwires) - Drag-and-drop wiring UI for Adobe Flex
-* [apache/flex-tlf](https://github.com/apache/flex-tlf) - Mirror of Apache Flex TLF
 * [yourpalmark/facebook-actionscript-api](https://github.com/yourpalmark/facebook-actionscript-api) - Import from Adobe's official Facebook library, branched here to add additional functionality and support.
 * [nosir/pixas-editor](https://github.com/nosir/pixas-editor) - Isometric pixel graphics editor
 * [graysonlang/proscenium](https://github.com/graysonlang/proscenium) - Proscenium ActionScript Library
+* [apache/flex-tlf](https://github.com/apache/flex-tlf) - Mirror of Apache Flex TLF
 * [yanbe/qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
 * [tylerzhu/SpriteSheet](https://github.com/tylerzhu/SpriteSheet) - ActionScript 3.0 Sprite Sheet render engine
 * [pechemann/hummingbird](https://github.com/pechemann/hummingbird) - The easiest way to build and deploy robust MVC applications for ActionScript 3.0, Mobile and the Starling Framework.
