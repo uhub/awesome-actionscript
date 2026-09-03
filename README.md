@@ -495,7 +495,6 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [FlashNightModReborn/CrazyFlashNight](https://github.com/FlashNightModReborn/CrazyFlashNight) - 闪7重置版项目
 * [in4ray/firefly-sdk](https://github.com/in4ray/firefly-sdk) - Firefly - in4ray Gaming SDK
 * [johanp/Pixelizer](https://github.com/johanp/Pixelizer) - A component based game engine for AS3. Master version is currently 0.4.3. Please note, the dev branch is currently under heavy development for 0.5 and should be considered unstable. There will be a few breaking changes.
-* [qq555565/Seer-golang](https://github.com/qq555565/Seer-golang) - Golang赛尔号服务端
 * [HiWill/as3isolib_starling](https://github.com/HiWill/as3isolib_starling) - as3isolib starling port
 * [tdavies/Ember2](https://github.com/tdavies/Ember2) - Enitiy System for as3
 * [alecmce/xember](https://github.com/alecmce/xember) - A riff on the Ember entity system
@@ -506,9 +505,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [ScripterSugar/wdfp-extractor](https://github.com/ScripterSugar/wdfp-extractor) - Export World Flipper assets, rename digested file paths, restore corrupted data and translate irregular file formats to JSON.
 * [zrong/sprite_sheet_editor](https://github.com/zrong/sprite_sheet_editor) - Sprite Sheet编辑器
 * [AdamAtomic/EZPlatformer](https://github.com/AdamAtomic/EZPlatformer) - A simple platforming game - collect coins and reach the exit to win. VERY SIMPLE.
-* [anthony-hyo/aqw-mobile](https://github.com/anthony-hyo/aqw-mobile) - AdventureQuest Worlds for Mobile and Desktop
 * [krys64/FlashToGodotExport](https://github.com/krys64/FlashToGodotExport) - An application that allows you to export an Adobe Flash/Animate animation to Godot 4.
 * [zrong/dragonbones-for-cocos2d-x](https://github.com/zrong/dragonbones-for-cocos2d-x)
+* [anthony-hyo/aqw-mobile](https://github.com/anthony-hyo/aqw-mobile) - AdventureQuest Worlds for Mobile and Desktop
 * [mziwisky/bullet-ane](https://github.com/mziwisky/bullet-ane) - Adobe AIR native extension for the Bullet physics simulation library
 * [reyco1/PhysInjector](https://github.com/reyco1/PhysInjector) - Box2D AS3 Wrapper library with injected badassery!
 * [flashflashrevolution/rCubed](https://github.com/flashflashrevolution/rCubed) - Official Flash Flash Revolution game engine.
@@ -571,6 +570,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [wonderyue/Animator](https://github.com/wonderyue/Animator) - A Visual FSM Editor like Unity Mecanim System
 * [F4CF/Creation-Framework](https://github.com/F4CF/Creation-Framework) - A general purpose scripting library for Fallout 4.
 * [spritebuilder/SWF-Importer](https://github.com/spritebuilder/SWF-Importer) - Air tool to convert fla/swf to SpriteBuilder CCB format
+* [qq555565/Seer-golang](https://github.com/qq555565/Seer-golang) - Golang赛尔号服务端
 
 ### Audio
 
