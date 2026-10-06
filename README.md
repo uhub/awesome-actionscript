@@ -74,15 +74,15 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [joshtynjala/starling-preloader](https://github.com/joshtynjala/starling-preloader) - An example preloader for Starling Framework running in Adobe Flash Player in a web browser *(archived)*
 * [Stray/robotlegs-demo-StrategyGame](https://github.com/Stray/robotlegs-demo-StrategyGame) - A simple strategy game built using TDD in robotlegs
 * [ccoenraets/SalesbuilderMobile](https://github.com/ccoenraets/SalesbuilderMobile)
-* [dima/soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities. *(archived)*
 * [openfl/openfl-samples-as3](https://github.com/openfl/openfl-samples-as3) - OpenFL npm sample projects (written in ActionScript 3.0 with Apache Royale)
 * [thillerson/twitteria](https://github.com/thillerson/twitteria) - A simple twitter client for Adobe AIR, written five ways. Once with no framework, and once with four other Flex Frameworks - Cairngorm, PureMVC, Swiz, and Mate.
 * [awaystudios/Invawayders](https://github.com/awaystudios/Invawayders) - Cross-platform gaming example for Away3D in Adobe Flash & AIR, using AS3 games engine Ash
-* [NeoGuo/StarlingPageFlip](https://github.com/NeoGuo/StarlingPageFlip) - Some Starling demos: Page Flip, 3D Cloud, Image Wrapper
 * [BabelFx/AS3-Flex-Samples](https://github.com/BabelFx/AS3-Flex-Samples) - Flex 3/4 sample applications to demonstrate usages of the BabelFx (l10nInjection) framework *(archived)*
 * [keim/wonderfl](https://github.com/keim/wonderfl) - All of my Flash experiments in Wonderfl.
+* [NeoGuo/StarlingPageFlip](https://github.com/NeoGuo/StarlingPageFlip) - Some Starling demos: Page Flip, 3D Cloud, Image Wrapper
 * [PrimaryFeather/Memory3D](https://github.com/PrimaryFeather/Memory3D) - A simple implementation of "Memory" (also known as "Concentration") showcasing Starling's Sprite3D functionality.
 * [renaun/ActionScriptGameServerExamples](https://github.com/renaun/ActionScriptGameServerExamples) - Code examples of my dabblings with my own redtamarin modifications as a game server
+* [dima/soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
 
 ## Language and Tooling
 
@@ -123,7 +123,6 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [robotlegs/robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) - An ActionScript 3 application framework for Flash and Flex
 * [apache/royale-asjs](https://github.com/apache/royale-asjs) - Apache Royale ASJS
 * [apache/flex-sdk](https://github.com/apache/flex-sdk) - Mirror of Apache Flex SDK
-* [dima/restfulx_framework](https://github.com/dima/restfulx_framework) - The RESTful way to develop Adobe Flex and AIR applications. *(archived)*
 * [swiz/swiz-framework](https://github.com/swiz/swiz-framework) - Swiz framework for AS3 and Flex
 * [joelhooks/signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) - Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands
 * [wardi/django-filebrowser-no-grappelli](https://github.com/wardi/django-filebrowser-no-grappelli) - django-filebrowser for default Django admin site. Based on https://github.com/sehmaschine/django-filebrowser v3.1 (before it was in git) Consider using https://github.com/smacker/django-filebrowser-no-grappelli which is based on a newer version
@@ -147,6 +146,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [jamieowen/robotlegs2-starling-viewmap](https://github.com/jamieowen/robotlegs2-starling-viewmap) - Robotlegs extension to enable simple mediator mapping to a Starling Stage instance
 * [pixels4nickels/robotlegs-extensions-SignalCommandMap](https://github.com/pixels4nickels/robotlegs-extensions-SignalCommandMap) - Signal command map extension for RobotLegs2
 * [soundstep/somacore_framework](https://github.com/soundstep/somacore_framework) - SomaCore is a lightweight event-based AS3 MVC framework.
+* [dima/restfulx_framework](https://github.com/dima/restfulx_framework) - The RESTful way to develop Adobe Flex and AIR applications.
 
 ### HTTP and Networking Clients
 
@@ -451,8 +451,8 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [Ruin0x11/ElonaPlusCustom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX) - Elona+ variant based on Custom-G
 * [hsharma-design/Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) - Hungry Hero is an open source Flash game built on Starling Framework.
 * [st33d/red-rogue](https://github.com/st33d/red-rogue) - flex roguelike
-* [asaia/StarlingPunk](https://github.com/asaia/StarlingPunk) - StarlingPunk is a framework built on top the Starling library designed to add structure and organization to your 2D game projects. It’s perfect for rapidly prototyping ideas and promotes code reuse between projects. As you may have been able to tell from the name, StarlingPunk is heavily inspired by the popular FlashPunk framework, although its not a direct port.
 * [bym-refitted/backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) - The Backyard Monsters preservation project 🎮
+* [asaia/StarlingPunk](https://github.com/asaia/StarlingPunk) - StarlingPunk is a framework built on top the Starling library designed to add structure and organization to your 2D game projects. It’s perfect for rapidly prototyping ideas and promotes code reuse between projects. As you may have been able to tell from the name, StarlingPunk is heavily inspired by the popular FlashPunk framework, although its not a direct port.
 * [st33d/Ending](https://github.com/st33d/Ending) - Roguelike puzzle game
 * [CreativeBottle/starlingMVC](https://github.com/CreativeBottle/starlingMVC) - IOC Framework for Starling based games
 * [byxb/Whack](https://github.com/byxb/Whack) - Whack Game Starling Project for Flash Player 11
@@ -460,18 +460,18 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [s9tpepper/robotlegs-starling-plugin](https://github.com/s9tpepper/robotlegs-starling-plugin) - A Robotlegs plugin that adds some Robotlegs classes to support usage with the Starling framework.
 * [mindjolt/starling-builder-editor](https://github.com/mindjolt/starling-builder-editor)
 * [jadbox/IsoHill-Game-Engine](https://github.com/jadbox/IsoHill-Game-Engine) - IsoHill is a new isometric engine for Flash Player 11 [molehill] built on top of the open 2D framework Starling. Features: Plugins - engine-wide modifications, Includes a TMX [CVS export] parser, Components - dynamic logic can be added and removed from IsoSprites, Virtually unlimited layers, Anti-aliasing of isometric tiles, deterministic framework, Mipmapping, and under BSD license
+* [5DPLAY-Game-Studio/BleachVsNaruto](https://github.com/5DPLAY-Game-Studio/BleachVsNaruto) - 死神vs火影 是一个由 剑jian 及其所属制作组 5DPLAY Game Studio 制作的同人新概念策略格斗游戏。 在这里，你可以挑战自己操作与反应的极限，也可以作为团队的核心决策这体验运筹帷幄的畅快。
 * [XanderXevious/DAME](https://github.com/XanderXevious/DAME) - Deadly Alien Map Editor - for 2D and isometric games.
 * [TheDamArmada/Flash2Cocos2D](https://github.com/TheDamArmada/Flash2Cocos2D) - Library to import animations made in Flash to Cocos2D
 * [wdmir/521266750_qq_com](https://github.com/wdmir/521266750_qq_com) - massive multiplayer platform for poker online game
-* [jwagner/box2d2-js](https://github.com/jwagner/box2d2-js) - Automatic port of box2dAS 2.0 to javascript
 * [pnkl1999/DDTank41](https://github.com/pnkl1999/DDTank41) - Full Source DDTank Version 41
+* [jwagner/box2d2-js](https://github.com/jwagner/box2d2-js) - Automatic port of box2dAS 2.0 to javascript
 * [dofera/dofedex](https://github.com/dofera/dofedex) - A Dofus Retro encyclopedia
 * [tomkrcha/RealtimeGameLib](https://github.com/tomkrcha/RealtimeGameLib) - Simple library for building multiplayer realtime games using P2P (and Flash Media Server).
 * [Ormael13/CoCX](https://github.com/Ormael13/CoCX) - Coc source from Fenoxo with Xianxia twist and not only ^^
 * [punkice3407/ObjectBuilder](https://github.com/punkice3407/ObjectBuilder)
 * [arkeus/Axel](https://github.com/arkeus/Axel) - An open source, hardware accelerated 2D flash game library
 * [Mardoxx/skyrimui](https://github.com/Mardoxx/skyrimui) - Unofficial Skyrim UI SDK
-* [5DPLAY-Game-Studio/BleachVsNaruto](https://github.com/5DPLAY-Game-Studio/BleachVsNaruto) - 死神vs火影 是一个由 剑jian 及其所属制作组 5DPLAY Game Studio 制作的同人新概念策略格斗游戏。 在这里，你可以挑战自己操作与反应的极限，也可以作为团队的核心决策这体验运筹帷幄的畅快。
 * [tdavies/Ember](https://github.com/tdavies/Ember) - Flash component based entity system framework for game development
 * [133spider/AQLite](https://github.com/133spider/AQLite) - A Client for AQWorlds
 * [treefortress/SpriterAS](https://github.com/treefortress/SpriterAS) - An AS3 library for rendering Spriter Animations (SCML) with Starling
@@ -489,9 +489,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [pixeljam/DinoRunDX](https://github.com/pixeljam/DinoRunDX)
 * [AntKarlov/Anthill-Framework](https://github.com/AntKarlov/Anthill-Framework) - Tiny framework for creating Flash games.
 * [bot4dofus/Datafus](https://github.com/bot4dofus/Datafus) - 📚🥚 The Dofus database and socket events in JSON files. Includes the source code and more... *(archived)*
+* [map220v/TencentPvZOL](https://github.com/map220v/TencentPvZOL)
 * [iainlobb/Gamepad](https://github.com/iainlobb/Gamepad) - Gamepad simulates an analog joystick input using the keyboard. Many times when we access key presses, what we are really doing is pretending that WASD, the arrow keys or some other combination are actually a D-pad or joystick with an X and Y axis, and 1 or 2 fire buttons. Gamepad handles the event capture, maths and other details of this for you, so you only have to think about how you want your game to respond to this input.
 * [Emudofus/Dofus](https://github.com/Emudofus/Dofus) - Dofus client's sources
-* [map220v/TencentPvZOL](https://github.com/map220v/TencentPvZOL)
 * [FlashNightModReborn/CrazyFlashNight](https://github.com/FlashNightModReborn/CrazyFlashNight) - 闪7重置版项目
 * [in4ray/firefly-sdk](https://github.com/in4ray/firefly-sdk) - Firefly - in4ray Gaming SDK
 * [johanp/Pixelizer](https://github.com/johanp/Pixelizer) - A component based game engine for AS3. Master version is currently 0.4.3. Please note, the dev branch is currently under heavy development for 0.5 and should be considered unstable. There will be a few breaking changes.
@@ -504,10 +504,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [joeonmars/CameraFocus](https://github.com/joeonmars/CameraFocus) - a 2D camera helper class for ActionScript 3.0 projects / Starling Framework
 * [ScripterSugar/wdfp-extractor](https://github.com/ScripterSugar/wdfp-extractor) - Export World Flipper assets, rename digested file paths, restore corrupted data and translate irregular file formats to JSON.
 * [zrong/sprite_sheet_editor](https://github.com/zrong/sprite_sheet_editor) - Sprite Sheet编辑器
+* [anthony-hyo/aqw-mobile](https://github.com/anthony-hyo/aqw-mobile) - AdventureQuest Worlds for Mobile and Desktop
 * [AdamAtomic/EZPlatformer](https://github.com/AdamAtomic/EZPlatformer) - A simple platforming game - collect coins and reach the exit to win. VERY SIMPLE.
 * [krys64/FlashToGodotExport](https://github.com/krys64/FlashToGodotExport) - An application that allows you to export an Adobe Flash/Animate animation to Godot 4.
 * [zrong/dragonbones-for-cocos2d-x](https://github.com/zrong/dragonbones-for-cocos2d-x)
-* [anthony-hyo/aqw-mobile](https://github.com/anthony-hyo/aqw-mobile) - AdventureQuest Worlds for Mobile and Desktop
 * [mziwisky/bullet-ane](https://github.com/mziwisky/bullet-ane) - Adobe AIR native extension for the Bullet physics simulation library
 * [reyco1/PhysInjector](https://github.com/reyco1/PhysInjector) - Box2D AS3 Wrapper library with injected badassery!
 * [flashflashrevolution/rCubed](https://github.com/flashflashrevolution/rCubed) - Official Flash Flash Revolution game engine.
@@ -516,6 +516,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [dolgion1/FlashPunk-JRPG-Engine](https://github.com/dolgion1/FlashPunk-JRPG-Engine) - This is an engine that enables game developers to create games in the style of old SNES style JRPGs. It's the version I'm constantly working on, on my blog there is a tutorial explaining the code. Since the code has grown too much in size for me to make individual lessons with a parallel developing code, the source here is the reference for those tutorials from now on.
 * [Gamua/Flox-AS3](https://github.com/Gamua/Flox-AS3) - The ActionScript 3 SDK for the Flox Game Backend
 * [Seb-135/ee-offline](https://github.com/Seb-135/ee-offline) - Source for Everybody Edits: Offline
+* [TylerGlaiel/GlaielGamesOldFlashSources](https://github.com/TylerGlaiel/GlaielGamesOldFlashSources) - a release of the source code for all my old flash games, for educational & preservation purposes only
 * [carykh/5b](https://github.com/carykh/5b) - Flash game I developed in early 2013, first announced in this YouTube video: https://www.youtube.com/watch?v=emDpKog8v6w
 * [NoRabbit/ND2Dx](https://github.com/NoRabbit/ND2Dx) - 2D GPU Accelerated Game Engine for Flash Stage3D
 * [poerlang/HEditor](https://github.com/poerlang/HEditor) - A Html5 Web Game Editor
@@ -523,7 +524,6 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [euske/planpathplat](https://github.com/euske/planpathplat) - Experimental Path Planning for Platformer
 * [jakevsrobots/A-House-in-California](https://github.com/jakevsrobots/A-House-in-California) - A point and click art game about nostalgia, family and memory. Finalist for the Nuovo Award at the 2011 IGF. Also featured in the Learn to Play show at Euhprat Museum of Art and the Meaningful Play 2010 conference. Made with Flixel.
 * [krechagames/starling-extensions](https://github.com/krechagames/starling-extensions) - Extensions for the Starling Framework
-* [TylerGlaiel/GlaielGamesOldFlashSources](https://github.com/TylerGlaiel/GlaielGamesOldFlashSources) - a release of the source code for all my old flash games, for educational & preservation purposes only
 * [amitp/mapgen](https://github.com/amitp/mapgen) - Simple game map generator using Perlin/Simplex noise. Used for alpha testing of Realm of the Mad God.
 * [ciathyza/tetragon](https://github.com/ciathyza/tetragon) - Tetragon is an Open Source cross-platform game engine used to develop games and applications for the web, desktop and mobile devices. It is written purely in ActionScript 3 and comfortably allows to write source code once and deploy builds to several different target platforms. Unlike most other Flash-based game engines and frameworks that allow you to develop a specific type of game or that provide a subset API to support game development, Tetragon provides a complete foundation with that any type of game can be developed, incl. resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and a lot more.
 * [mikechambers/pewpew](https://github.com/mikechambers/pewpew) - Flash based space shooter game
@@ -535,16 +535,16 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [tylerzhu/linkupGame](https://github.com/tylerzhu/linkupGame) - 基于PureMVC实现的连连看小游戏
 * [yogurt3d/Yogurt3D](https://github.com/yogurt3d/Yogurt3D) - Flash Game Engine that utilizes the power of Stage3D, the new hardware acceleration for Flash Player 11
 * [zynga/swf2ccb](https://github.com/zynga/swf2ccb) - [DEPRECATED] A tool that converts existing assets to ccb format *(archived)*
-* [Brinkbit/StarlingFullScreenExtension](https://github.com/Brinkbit/StarlingFullScreenExtension) - Starling fullscreen no stretch extension. Makes multi-resolution support a breeze.
 * [gamebuilderstudio/gamebuilderengine](https://github.com/gamebuilderstudio/gamebuilderengine) - GameBuilder Studio Engine
+* [leveleditor/CrystAlien-Conflict-Flash-Wrapper](https://github.com/leveleditor/CrystAlien-Conflict-Flash-Wrapper) - The Flash wrapper for CrystAlien Conflict, used for loading modifications into the game at run time. Also includes the core CrystAlien Redux Project mods for bugfixes and extra functionality.
 * [openfl/openfl-js](https://github.com/openfl/openfl-js) - Wrapper to support OpenFL HTML5 development using TypeScript, Haxe, JavaScript or ActionScript 3.0
 * [AdamAtomic/Flx-Invaders](https://github.com/AdamAtomic/Flx-Invaders) - A very simple flixel game inspired by the Taito classic.
-* [leveleditor/CrystAlien-Conflict-Flash-Wrapper](https://github.com/leveleditor/CrystAlien-Conflict-Flash-Wrapper) - The Flash wrapper for CrystAlien Conflict, used for loading modifications into the game at run time. Also includes the core CrystAlien Redux Project mods for bugfixes and extra functionality.
+* [Brinkbit/StarlingFullScreenExtension](https://github.com/Brinkbit/StarlingFullScreenExtension) - Starling fullscreen no stretch extension. Makes multi-resolution support a breeze.
+* [JordanMagnuson/Loneliness](https://github.com/JordanMagnuson/Loneliness) - An experimental, minimalistic microgame about loneliness, made for the Korean middle school students I taught for a year.
 * [tatsuya-koyama/MrWARP-clone](https://github.com/tatsuya-koyama/MrWARP-clone) - Multiplatform mini shooter-like game with Adobe AIR
 * [tconkling/godmode-as3](https://github.com/tconkling/godmode-as3) - A behavior tree implementation
 * [totologic/daedalus-lib](https://github.com/totologic/daedalus-lib) - Dynamic pathfinding in dynamic environment library
 * [arkeus/as3-tiled-reader](https://github.com/arkeus/as3-tiled-reader) - An as3 tmx parser created for flash games.
-* [JordanMagnuson/Loneliness](https://github.com/JordanMagnuson/Loneliness) - An experimental, minimalistic microgame about loneliness, made for the Korean middle school students I taught for a year.
 * [nashnie/Guide](https://github.com/nashnie/Guide) - 数据驱动的新手引导系统
 * [AdamHarte/ReMX](https://github.com/AdamHarte/ReMX) - 2D arcade game framework that uses the AS3 Stage3D API for GPU accelerated graphics rendering
 * [larsiusprime/CellGame--Open-Source-fork-of--CellCraft--](https://github.com/larsiusprime/CellGame--Open-Source-fork-of--CellCraft--) - A real-time strategy game that incorporates real cellular Biology. Grow your cell and fight off viruses!
@@ -600,7 +600,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [Tencent/Fanvas](https://github.com/Tencent/Fanvas) - Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! *(archived)*
 * [infusion/jQuery-webcam](https://github.com/infusion/jQuery-webcam) - A webcam wrapper plugin for jQuery
 * [flowplayer/flash](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web *(archived)*
-* [ccallcn/ovmeet](https://github.com/ccallcn/ovmeet) - SIP视频对讲、MCU融屏、指挥调度 、网页视频会议、视频会议、H5视频直播、SIP广播会议、融合通信、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、远程医疗、视频安全帽、机顶盒
+* [ccallcn/ovmeet](https://github.com/ccallcn/ovmeet) - SIP视频对讲、MCU融屏、指挥调度 、网页视频会议、视频会议、H5视频直播、SIP广播会议、融合通信、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、远程医疗、视频安全帽、机顶盒、会议转录、ASR/TTS
 * [kutu/GrindPlayer](https://github.com/kutu/GrindPlayer) - OSMF + Flex based flash video player, which provides most needed functionality in nowadays
 * [grapefrukt/grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) - a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats.
 * [chxj1992/rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) - 浏览器RTMP推流SDK (A javascript rtmp streamer library)
@@ -619,9 +619,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [yangq1990/SparrowPlayer](https://github.com/yangq1990/SparrowPlayer) - 麻雀播放器，采用as3开发，用于播放在线视频。包含在线视频播放器的基本功能，并且支持播放加密视频，HLS视频，分段视频等等。易扩展， 易二次开发。免费开源
 * [plepers/ATF-Encoder](https://github.com/plepers/ATF-Encoder) - Pure AS3 librairies for encode/decode ATF (Adobe Texture Format) files.
 * [og2t/HiSlope](https://github.com/og2t/HiSlope) - AS3 toolkit for making filtering the live video a smoothie
-* [openzoom/sdk](https://github.com/openzoom/sdk) - DEPRECATED: Open Source Toolkit for Multiscale Images and Zoomable User Interfaces (ZUIs)
 * [PowerflasherBR/as3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation in AS3
 * [erlyvideo/hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework
+* [openzoom/sdk](https://github.com/openzoom/sdk) - DEPRECATED: Open Source Toolkit for Multiscale Images and Zoomable User Interfaces (ZUIs)
 * [theturtle32/Flash-Animated-GIF-Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - A wicked fast and robust AS3 library for playing Animated GIFs in Flash.
 * [fieldOfView/krpano_fovplugins](https://github.com/fieldOfView/krpano_fovplugins) - A series of plugins for krpano
 * [cccssw/rpflex](https://github.com/cccssw/rpflex) - An AS Lib for manipulate face decorations and its example project rpmobile
@@ -792,8 +792,8 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [srohde/OAuth](https://github.com/srohde/OAuth) - AS3/Flex OAuth Library
 * [schacon/asgit](https://github.com/schacon/asgit) - ActionScript Git library and browser implementation
 * [MixingLoom/mixingloom-core](https://github.com/MixingLoom/mixingloom-core)
-* [SmashIO/SmashFramework](https://github.com/SmashIO/SmashFramework)
 * [Neanka/MCM_0.1_AS3](https://github.com/Neanka/MCM_0.1_AS3)
+* [SmashIO/SmashFramework](https://github.com/SmashIO/SmashFramework)
 * [tinklondon/tink_flash_platform](https://github.com/tinklondon/tink_flash_platform) - Flash/Flex ActionScript 3.0 source from Tink Ltd (http://www.tink.ws)
 * [jankeesvw/LogMeister](https://github.com/jankeesvw/LogMeister) - LogMeister, one Flash logger to rule them all *(archived)*
 * [sectore/ThunderBoltAS3](https://github.com/sectore/ThunderBoltAS3) - Original source of ThunderBolt AS3
@@ -804,7 +804,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [Lindi/Nevada-Railroad](https://github.com/Lindi/Nevada-Railroad) - Nevada Railroad Interactive
 * [velara3/flexcapacitor](https://github.com/velara3/flexcapacitor)
 * [leopoldodonnell/airhttp](https://github.com/leopoldodonnell/airhttp) - An easy to integrate HTTP Server for Adobe Air applications.
-* [srohde/Twitter](https://github.com/srohde/Twitter)
+* [srohde/Twitter](https://github.com/srohde/Twitter) - *(archived)*
 * [smakinson/Pusher-ActionScript-Library](https://github.com/smakinson/Pusher-ActionScript-Library) - An ActionScript version of the pusher library for binding to events, etc.
 * [articulate/storyline-sdk](https://github.com/articulate/storyline-sdk) - *(archived)*
 * [cicl-stanford/csm](https://github.com/cicl-stanford/csm) - Contains all materials for the paper "A counterfactual simulation model of causal judgment".
@@ -814,7 +814,11 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [ga1ois/Recon-2018-Montreal](https://github.com/ga1ois/Recon-2018-Montreal)
 * [Jack000/PartKAM](https://github.com/Jack000/PartKAM) - A browser-based 2.5D CAM tool
 * [BowlerHatLLC/asconfigc](https://github.com/BowlerHatLLC/asconfigc) - Command line utility that builds ActionScript projects configured with an asconfig.json file.
+* [gachacounterfit/gachaclub](https://github.com/gachacounterfit/gachaclub) - Gacha Club full source code
 * [circuitvalley/IR-Remote-Control](https://github.com/circuitvalley/IR-Remote-Control) - NEC IR Decoder/ Reciver Libarary in C For Microcontroller
+* [GoAnimate-Wrapper/GoAnimate-Studio](https://github.com/GoAnimate-Wrapper/GoAnimate-Studio) - Decompiled source code from the legacy Flash version of Vyond (June 2018).
+* [JayPavlina/super-mario-bros-crossover](https://github.com/JayPavlina/super-mario-bros-crossover)
 * [myflashlab/AS3-youtube-parser-video-link](https://github.com/myflashlab/AS3-youtube-parser-video-link) - This AS3 library can parse standard youtube links like https://www.youtube.com/watch?v=QowwaefoCec and will extract different elements of that video like available direct video addresses and video thumbnail. it works with public unrestricted video files only.
 * [myflashlab/inAppPayments-ANE](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase Air Native Extension for Android and iOS *(archived)*
 * [ranklau/labs](https://github.com/ranklau/labs)
+* [TouchScript/TouchScript.as3](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework for Flash
